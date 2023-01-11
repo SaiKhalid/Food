@@ -1,5 +1,5 @@
 ingredients :
-buritto shells
+buritto shells; or flour tortilla 
 chicken
 beef
 fries
