@@ -1,7 +1,7 @@
 ingredients :
 taco shell
 Salad 
-avocados
+guacamole
 tomatoes
 cheese
 sauce
